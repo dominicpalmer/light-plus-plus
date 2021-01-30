@@ -1,0 +1,31 @@
+{
+    "name": "lightplusplus",
+    "displayName": "Light++",
+    "description": "An adaptation of the Light+ theme with clearer panel distinction",
+    "publisher": "DominicPalmer",
+    "author": {
+        "name": "Dominic Palmer"
+    },
+    "license": "MIT",
+    "version": "0.0.1",
+    "icon": "light-plus-plus.png",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/dominicpalmer/light-plus-plus.git"
+	},
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Light++",
+                "uiTheme": "vs",
+                "path": "./themes/light_plus_plus.json"
+            }
+        ]
+    }
+}
