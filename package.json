@@ -1,13 +1,13 @@
 {
     "name": "lightplusplus",
     "displayName": "Light++",
-    "description": "An adaptation of the Light+ theme with clearer panel distinction",
+    "description": "An adaptation of the Light+ theme with stronger emphasis on panel distinction",
     "publisher": "DominicPalmer",
     "author": {
         "name": "Dominic Palmer"
     },
     "license": "MIT",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "icon": "light-plus-plus.png",
     "repository": {
 		"type": "git",

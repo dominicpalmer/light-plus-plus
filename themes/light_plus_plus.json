@@ -37,6 +37,8 @@
 		"tab.lastPinnedBorder": "#61616130",
 		"window.activeBorder": "#142774",
 		"window.inactiveBorder": "#142774",
+		"terminal.border": "#d7d7d7",
+        "panel.border": "#142774",
 	},
 	"tokenColors": [
 		{
@@ -424,7 +426,7 @@
 				"entity.name.operator.custom-literal"
 			],
 			"settings": {
-				"foreground": "#795E26"
+				"foreground": "#6f4a00"
 			}
 		},
 		{
@@ -464,7 +466,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#267F99"
+				"foreground": "#22738c"
 			}
 		},
 		{
@@ -477,7 +479,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#267F99"
+				"foreground": "#22738c"
 			}
 		},
 		{
@@ -501,7 +503,7 @@
 				"entity.name.variable"
 			],
 			"settings": {
-				"foreground": "#001080"
+				"foreground": "#000000"
 			}
 		},
 		{
@@ -518,7 +520,7 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#001080"
+				"foreground": "#000000"
 			}
 		},
 		{
