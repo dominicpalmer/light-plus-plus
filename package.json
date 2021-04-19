@@ -7,12 +7,12 @@
         "name": "Dominic Palmer"
     },
     "license": "MIT",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "icon": "light-plus-plus.png",
     "repository": {
-		"type": "git",
-		"url": "https://github.com/dominicpalmer/light-plus-plus.git"
-	},
+        "type": "git",
+        "url": "https://github.com/dominicpalmer/light-plus-plus.git"
+    },
     "engines": {
         "vscode": "^1.52.0"
     },
